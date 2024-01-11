@@ -1,0 +1,130 @@
+body{
+    background-image: url(./pexels-johannes-plenio-1103970.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#image{
+    position: absolute;
+    top: 1.5%;
+    left: 0.7%;
+    height: 23px;
+    width: 2.4%;
+    border-radius: 50%;
+}
+#main{
+    background-color: rgba(255, 255, 255, 0.425);
+    height: 580px;
+    width: 95%;
+    margin: 0px auto;
+    border-radius: 1%;
+    margin-top: -5%;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+#head{    
+    padding-top: 16%;
+    padding-left: 5%;
+    font-size: 50px;
+}
+#para{
+    padding-left: 5%;
+    padding-top: -10%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+}
+#body{
+    margin-top: -2.2%;
+    margin-left: 0.5%;
+}
+#first{
+    height: 40px;
+    width: 15%;
+    border-radius: 30px;
+    border: 0;
+    margin-left: 6%;
+    background-color: rgb(8, 47, 54);
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+#first:hover{
+    border: 1px solid white;
+}
+#second{
+    height: 40px;
+    width: 15%;
+    border-radius: 30px;
+    border: 0;
+    margin-left: 1%;
+    background-color: rgb(194, 89, 4);
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+#second:hover{
+    border: 1px solid white;
+}
+#sub{
+    margin-top: 5%;
+}
+img{
+    height: 400px;
+    width: 32.5%;  
+    
+    position: absolute;
+    left: 57.7%;
+    top: 22%;
+    border-radius: 5%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: small;
+    margin-top: 2%;
+}
+a:hover{
+    text-decoration: underline;
+}
+#left{
+    padding-top: 1.2%;
+    font-family: sans-serif;
+    font-size: 22px;
+    padding-left: 3.8%;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+#nav{
+    background-color: rgb(8, 47, 54);
+    width: 100%;
+    height: 47px;
+    margin-top: -2.5%;
+}
+a{
+    margin-left: 12%;
+}
+#buy{
+    /* margin-left: 2%;
+    margin-right: -2%; */
+    height: 25px;
+    width: 10%;
+    border-radius: 30px;
+    border: 0;
+    /* margin-left: 3%; */
+    background-color: rgb(194, 89, 4);
+    color: white;   
+    font-size: small;
+    position: absolute;
+    left: 88.3%;
+    top: 1.4%;
+}
+#buy:hover{
+    border: 1px solid white;
+}
+#nav2{
+    position: absolute;
+    left: 43%;
+    top: 2%;
+}
